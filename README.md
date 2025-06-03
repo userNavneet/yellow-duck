@@ -1,4 +1,4 @@
-### yellow duck## yellow duck
+### yellow duck
 
 This repository is used to track my progress through the [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home/) course by HarvardX.
 
